@@ -1,0 +1,34 @@
+{
+  "title": "Mental Health And Lockdown Dataset",
+  "description": "Open research dataset: Mental Health And Lockdown Dataset. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "mental health",
+    "public health",
+    "dataset",
+    "open data",
+    "research"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/mental-health-and-lockdown-dataset",
+      "scheme": "url"
+    }
+  ]
+}
